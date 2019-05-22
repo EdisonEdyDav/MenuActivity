@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+
+    //imagen button
+
+    <string name="imgbtn_pedidos">boton_pedidos</string>
+    <string name="imgbtn_reservas">boton_reservas</string>
+    <string name="imgbtn_tareas">boton_tareas</string>
+    <string name="imgbtn_notificaciones">boton_notificaciones</string>
+    <string name="imgbtn_historial">boton_historial</string>
+    <string name="imgbtn_estados">boton_estados</string>
+
+
+    //text view imagen button
+    <string name="tv_pedidos">pedidos</string>
+    <string name="tv_reservas">reservas</string>
+    <string name="tv_tareas">tareas</string>
+    <string name="tv_notificaciones">notificaciones</string>
+    <string name="tv_historial">historial</string>
+    <string name="tv_estados">estados</string>
+
+</resources>
